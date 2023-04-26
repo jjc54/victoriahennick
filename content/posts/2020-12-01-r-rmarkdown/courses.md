@@ -8,7 +8,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 # My Favorites
 
-## Organic Chemistry I 
+## Organic Chemistry I
 
 Starting off scared to take such an intimidating class, I soon discovered that the puzzle-like problem solving that some found daunting, was what inspired me to learn all that I could about organic chemistry.
 
@@ -92,23 +92,23 @@ I found Core 2 fascinating and I enjoyed the twice a week lectures where I could
 <div class="collage">
   <div class="collage-item">
     <img src="/images/favorite.JPG" alt="Description of Photo 1">
-    <div class="caption">test test test test test test test test test</div>
+    <div class="caption">Presentation of organic chemistry research: Development of a Novel Multi-Component Reaction (MCR)</div>
   </div>
   <div class="collage-item">
     <img src="/images/favorite2.JPG" alt="Description of Photo 2">
-    <div class="caption">Caption for Photo 2</div>
+    <div class="caption">Super smart medical stuff</div>
   </div>
   <div class="collage-item">
     <img src="/images/impactful.JPG" alt="Description of Photo 3">
-    <div class="caption">Caption for Photo 3</div>
+    <div class="caption">National Cathedral, Washington D.C.</div>
   </div>
     <div class="collage-item">
     <img src="/images/impactful2.JPG" alt="Description of Photo 3">
-    <div class="caption">Caption for Photo 3</div>
+    <div class="caption">Suspended Pink Precipitate</div>
   </div>
     <div class="collage-item">
     <img src="/images/impacful3.JPG" alt="Description of Photo 3">
-    <div class="caption">Caption for Photo 3</div>
+    <div class="caption">Recipient of the 2023 Organic Chemistry Award</div>
   </div>
   <!-- Add more images as needed -->
 </div>
